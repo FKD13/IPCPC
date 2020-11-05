@@ -1,6 +1,7 @@
 # IPCPC
 
-IP Camera Python Client
+IP Camera Python Client.
+I personaly use it in combination with this [app](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=nl&gl=US)
 
 ## Description
 
